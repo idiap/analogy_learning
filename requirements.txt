@@ -1,0 +1,9 @@
+#requirements for out scripts (not included in setence_transformers)
+torch>=1.6.0
+transformers>=4.6.0,<5.0.0
+pandas
+numpy
+scikit-learn
+datasets
+gensim
+statsmodels
